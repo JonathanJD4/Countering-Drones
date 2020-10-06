@@ -1,6 +1,9 @@
 # Countering Drones
 A *brief* paragraph explaining your project and what it does should be written here. The idea is to give readers an overview of what it is that you've built.
+ ce301_devaux_jonathan
+ Project is based on countering drones (Test).
 
+ 
 ## Getting Started (Software Based)
 You should write a bit about **how** I can get your project working, It's good to think in terms of the following sections:
 
@@ -59,4 +62,7 @@ Provide your names here
 ## References
 * [Gitlab Markdown Guide](https://docs.gitlab.com/ee/user/markdown.html)
 * [Example 1](https://github.com/erasmus-without-paper/ewp-specs-sec-intro/tree/v2.0.2)
-* [Example 2](https://github.com/erasmus-without-paper/ewp-specs-architecture/tree/v1.10.0)
+* [Example 2]
+
+
+
