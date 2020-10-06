@@ -1,4 +1,4 @@
-# Project Title
+# Countering Drones
 A *brief* paragraph explaining your project and what it does should be written here. The idea is to give readers an overview of what it is that you've built.
 
 ## Getting Started (Software Based)
