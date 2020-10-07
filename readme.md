@@ -1,7 +1,5 @@
 # Countering Drones
-A *brief* paragraph explaining your project and what it does should be written here. The idea is to give readers an overview of what it is that you've built.
- ce301_devaux_jonathan
- Project is based on countering drones (Test).
+This project is based on detecting the presence of drones using software defined radio (commonly known as SDR)
 
  
 ## Getting Started (Software Based)
@@ -11,6 +9,7 @@ You should write a bit about **how** I can get your project working, It's good t
 What do I need in order to get your project running? For example,
 * Python 3.5 (or later)
 * sqlalchemy
+* Research
 
 ### Installing
 A step by step guide on how to build and install your software, for example:
@@ -48,6 +47,7 @@ What versioning statergy are you using for your project, something like [semanti
 
 * Components
 * PBC
+* Summer research
 * etc..
  
 ### Component Testing
@@ -57,7 +57,7 @@ What versioning statergy are you using for your project, something like [semanti
 
 ## Authors
 Provide your names here
-* Fred Bloggs - UI Design
+* Jonathan Devaux - Countering Drones
 
 ## References
 * [Gitlab Markdown Guide](https://docs.gitlab.com/ee/user/markdown.html)
