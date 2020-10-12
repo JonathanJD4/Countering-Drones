@@ -2,11 +2,11 @@
 
 Research was conducted using:
 
-**- YouTube**
-**- Google search**
-**- Online articles**
-**- Research papers**
-**- Current Knowledge**
+**YouTube**
+**Google search**
+**Online articles**
+**Research papers**
+**Current Knowledge**
 
 
 The word documents are the research elements of the project which features:
