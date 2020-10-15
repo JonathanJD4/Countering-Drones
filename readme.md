@@ -1,5 +1,5 @@
 # Countering Drones
-This project is based on detecting the presence of drones using software defined radio (commonly known as SDR)
+This project is based on detecting the presence of drones using software defined radio (commonly known as SDR) and choosing a method for countering drones which could be through SDR, Early warning system or GPS spoofing
 
  
 ## Getting Started (Software Based)
