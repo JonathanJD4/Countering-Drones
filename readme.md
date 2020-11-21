@@ -12,6 +12,8 @@ What do I need in order to get your project running? For example,
 * Research
 * GitLab
 * Jira
+* WiFi Apps - (3 apps to be tested for 2.4GHz)
+* SDR Dongle
 
 ### Installing
 A step by step guide on how to build and install your software, for example:
