@@ -5,14 +5,9 @@ This project is based on detecting the presence of drones using software defined
 ![Drones](https://th.bing.com/th/id/OIP.YcmIz545R5HA5u6rcY0PkgAAAA?pid=Api&w=202.99999999999997&h=106.0675&c=7&dpr=1.25)
 ![Drones](https://images.idgesg.net/images/article/2020/01/snaptain-a15-drones-100827817-medium.jpg)
 
- 
-## Getting Started (Software Based)
-You should write a bit about **how** I can get your project working, It's good to think in terms of the following sections:
 
 ### Prerequisites
 What do I need in order to get your project running? For example,
-* Python 3.5 (or later)
-* sqlalchemy
 * Research
 * GitLab
 * Jira
@@ -22,32 +17,6 @@ What do I need in order to get your project running? For example,
 ### Installing
 A step by step guide on how to build and install your software, for example:
 
-#### Edit the configuration file
-In myconfig.ini, change the following settings to match your requirements:
-
-```
-database_name=test
-database_user=test
-database_pass=password
-```
-
-#### Install libraries and run program
-
-```
-pip install -r requirements.txt
-python3 main.py
-```
-
-### Running Tests
-How do I run your tests? Make it as easy as possible to do this!
-
-```
-pip install -r requirements.txt
-./tests.py
-```
-
-### Versioning Statergy
-What versioning statergy are you using for your project, something like [semantic versioning](https://semver.org/) might be a good idea.
 
 ## Getting Started (Hardware Based)
 
@@ -70,7 +39,6 @@ Provide your names here
 ## References
 * [Gitlab Markdown Guide](https://docs.gitlab.com/ee/user/markdown.html)
 * [Example 1](https://github.com/erasmus-without-paper/ewp-specs-sec-intro/tree/v2.0.2)
-* [Example 2]
 
 
 
