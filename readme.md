@@ -1,7 +1,7 @@
 # Countering Drones
 This project is based on detecting the presence of drones using software defined radio (commonly known as SDR) and choosing a method for countering drones which could be through SDR, Early warning system or GPS spoofing
 
-![Drones](https://aerospaceamerica.aiaa.org/wp-content/uploads/2017/10/1117_Feat_Drones-1200x675.jpg)
+![Drones](https://gccdrone.com/wp-content/uploads/2020/04/drone1.jpg)
 ![Drones1](https://images.idgesg.net/images/article/2020/01/snaptain-a15-drones-100827817-medium.jpg)
  
 ## Getting Started (Software Based)
