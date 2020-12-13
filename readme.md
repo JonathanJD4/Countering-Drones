@@ -38,7 +38,7 @@ A step by step guide on how to build and install your software, for example:
 * [Gitlab Markdown Guide](https://docs.gitlab.com/ee/user/markdown.html)
 * [Example 1](https://github.com/erasmus-without-paper/ewp-specs-sec-intro/tree/v2.0.2)
 * [CAA Regulations](https://www.caa.co.uk/Consumers/Unmanned-aircraft/Recreational-drones/Recreational-drone-flights)
-* [Drone Safe - Health & Safety](https://www.gov.uk/government/organisations/civil-aviation-authority#:~:text=The%20Civil%20Aviation%20Authority%20(CAA,the%20ATOL%20financial%20protection%20scheme)
+* [Governement Drone - Health & Safety](https://www.gov.uk/government/organisations/civil-aviation-authority#:~:text=The%20Civil%20Aviation%20Authority%20(CAA,the%20ATOL%20financial%20protection%20scheme))
 
 
 
