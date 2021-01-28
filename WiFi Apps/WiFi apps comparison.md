@@ -7,7 +7,6 @@ All apps detect 2.4GHz and 5GHz
 
 
 | Differences  | NetSpot | Net Analyzer | WiFi Analyzer |
-| ------ | ------ |
 | 2.4 & 5GHz   | Yes     |  Yes         | Yes           |
 | DNS lookup   | No      |  Yes         | No           |
 | Network info | Yes     |  Yes         | No           |
@@ -16,7 +15,6 @@ All apps detect 2.4GHz and 5GHz
 | Hidden WiFi  | Yes     |  Yes         | Yes           |
 | Ping & Trace | No      |  Yes         | No           |
  | header | header |
-| ------ | ------ |
 | cell | cell |
 | cell | cell |              ## NetSpot   ## Net Analyzer ## WiFi Analyzer
 | header | header |
