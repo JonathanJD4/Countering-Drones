@@ -2,7 +2,7 @@
 
 Used to detect 2.4GHz and 5GHz network signals
 
-##Features
+## Features
 * WiFi signal meter
 * LAN scanner
 * Ping & traceroute

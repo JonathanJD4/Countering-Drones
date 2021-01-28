@@ -2,7 +2,7 @@
 
 Used for WiFi network analysis and is able to detect 2.4GHz and 5GHz signals
 
-##Features
+## Features
 * WiFi Optimizer for Interference Issues
 * Channel Analyzer for Nearby APs
 * Real-time data and distance calculations.
