@@ -7,6 +7,7 @@ All apps detect 2.4GHz and 5GHz
 
 
 | Differences  | NetSpot | Net Analyzer | WiFi Analyzer |
+| ------ | ------ | ------ | ------ |
 | 2.4 & 5GHz   | Yes     |  Yes         | Yes           |
 | DNS lookup   | No      |  Yes         | No            |
 | Network info | Yes     |  Yes         | No            |
@@ -14,7 +15,6 @@ All apps detect 2.4GHz and 5GHz
 | CSV export   | Yes     |  No          | No            |
 | Hidden WiFi  | Yes     |  No          | Yes           |
 | Ping & Trace | No      |  Yes         | No            |
-
 
 
 To conclude NetSpot is the most useful app for the experiment carried out. Although each application has it own advantages, NetSpot has more variety especially with CSV export which the other 2 applications do not have this ability.
