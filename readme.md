@@ -8,18 +8,19 @@ This project is based on detecting the presence of drones using software defined
 
 ### Pre-requisites
 
+* PC/Laptop
 * Background Research
+* Summer Research
 * GitLab
 * Jira
 * Mobile device (For testing)
-* WiFi Apps - (3 apps to be tested for 2.4GHz)
 * SDR Dongle & Antenna
 
 ### Installing
 A step by step guide on how to build and install your software, for example:
 
 * Download SDR software
-* Install WiFi apps on mobile device to detect signals
+* Install WiFi apps on mobile device to detect 2.4GHz signals
 * NetSpot app
 * Net Analyzer app
 * WiFi Analyzer app
@@ -28,7 +29,10 @@ A step by step guide on how to build and install your software, for example:
 
  
 ### Component Testing
-### PCB Board design
+
+* SDR Dongle
+* SDR Antenna
+
 ### System Building
 ### Hardware version Stratgery
 
