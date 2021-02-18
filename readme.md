@@ -11,6 +11,7 @@ This project is based on detecting the presence of drones using software defined
 * Background Research
 * GitLab
 * Jira
+* Mobile device (For testing)
 * WiFi Apps - (3 apps to be tested for 2.4GHz)
 * SDR Dongle & Antenna
 
@@ -22,6 +23,7 @@ A step by step guide on how to build and install your software, for example:
 * NetSpot app
 * Net Analyzer app
 * WiFi Analyzer app
+* SDR Sharp
 
 
  
