@@ -38,7 +38,7 @@ M. R. Brust, G. Danoy, D. H. Stolfi and P. Bouvry states that Figure 1 is
 
 
 
-
+![Drones](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs43926-021-00002-x/MediaObjects/43926_2021_2_Fig1_HTML.png)
 
 
 
@@ -59,7 +59,9 @@ Cons: Kinetic solution could result in debris depending on parachute options, dr
 # References
 
 [1] 	Robin Radar, “9 Counter-Drone Technologies To Detect And Stop Drones Today,” We are Robin Radar Systems, 22 March 2020. [Online]. Available: https://www.robinradar.com/press/blog/9-counter-drone-technologies-to-detect-and-stop-drones-today. [Accessed 9 April 2021].
+
 [2] 	D. Shepard, J. Bhatti, T. Humphreys and A. Fansler, “Proceedings of the ION GNSS Meeting,” Evaluation of smart grid and civilian uav vulnerability to gps spoofing attacks, vol. 3, p. 3591–3605, 2012. 
+
 [3] 	M. R. Brust, G. Danoy, D. H. Stolfi and P. Bouvry, “Swarm-based counter UAV defense system.,” Discov Internet Things, 24 February 2021. [Online]. Available: https://doi.org/10.1007/s43926-021-00002-x. [Accessed 11 April 2021].
 
 
