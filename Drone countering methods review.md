@@ -39,7 +39,7 @@ M. R. Brust, G. Danoy, D. H. Stolfi and P. Bouvry states that Figure 1 is
 
 
 ![Drones](https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs43926-021-00002-x/MediaObjects/43926_2021_2_Fig1_HTML.png)
-
+Figure 1 Describing operation of Defending drone swarm against intruding/attacking drone [3]
 
 
 
