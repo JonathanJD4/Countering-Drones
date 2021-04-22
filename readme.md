@@ -38,7 +38,7 @@ A step by step guide on how to build and install your software, for example:
 | ------ | ------ | ------ | ------ | ------ | ------ |
 | Testing for 2.4GHz WiFi signals indoors (Flat) & outdoors | SDR testing for 2.4GHz radio frequencies | Testing for 5GHz/5180MHz WiFi signal indoors | Testing for 2.4GHz/2412MHz WiFi signal indoors | Testing for 5GHz/5180MHz WiFi signal Outdoors | Testing for 2.4GHz/2412MHz WiFi signal Outdoors
 | WiFi apps used - NetSpot, WiFi Analyzer, and Net Analyzer | SDR Sharp & Dongle used | Signal strength against location | NetSpot and WiFi Analyzer used | test the signal strength against the location | Once the signal reaches -100dBm the WiFi signal is no more viable and will not be able to connect or be discovered by the mobile device |
-| Signal strength against location | 13cm ham band detected | Testing inside house (3 floors) | Has stronger range | signal strength is lost once the mobile device has reached the road | Garden has better signal streng |
+| Signal strength against location | 13cm ham band detected | Testing inside house (3 floors) | Has stronger range | signal strength is lost once the mobile device has reached the road | Garden has better signal strength |
 
 
 ## Authors
