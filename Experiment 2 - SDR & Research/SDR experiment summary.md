@@ -1,0 +1,5 @@
+# SDR Experiment summary
+
+In this experiment a software defined radio(SDR) was used, the hardware is a USB dongle and includes a small antenna. The software was downloaded separately because the software that was included was not relevant to the experiment, the program SDR sharp was downloaded as this is used to detect radio signals (RF) ranging from 1MHz to 5.8GHz. The SDR itself is only able to detect up to 2.5GHz at the max. The program was only able to gradually increase to 2.4GHz instead of checking straight at 2.4GHz as the program would freeze. During this experiment, a few signals were found for example at 300MHz a military air signal was detected whilst at 2.3GHz onwards a 13cm ham band signal was detected. A 13cm ham band is an ultra-high frequency.
+
+The xml file is the saved output from the SDR sharp software and a screenshot saved a png file is also saved on GitLab.
