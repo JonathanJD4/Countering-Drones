@@ -13,7 +13,7 @@ This project is based on detecting the presence of drones using software defined
 * GitLab
 * Jira
 * Mobile device (For testing)
-* SDR Dongle & Antenna
+* Software defined radio (SDR) Dongle & Antenna
 
 ### Installing
 A step by step guide on how to build and install your software, for example:
@@ -33,8 +33,13 @@ A step by step guide on how to build and install your software, for example:
 * SDR Dongle
 * SDR Antenna
 
-### System Building
-### Hardware version Stratgery
+### Experiments 
+| Experiment 1 | Experiment 2 | Experiment 3 | Experiment 4 | Experiment 5 | Experiment 6 |
+| ------ | ------ | ------ | ------ | ------ | ------ |
+| Testing for 2.4GHz WiFi signals indoors (Flat) & outdoors | SDR testing for 2.4GHz radio frequencies | Testing for 5GHz/5180MHz WiFi signal indoors | Testing for 2.4GHz/2412MHz WiFi signal indoors | Testing for 5GHz/5180MHz WiFi signal Outdoors | Testing for 2.4GHz/2412MHz WiFi signal Outdoors
+| WiFi apps used - NetSpot, WiFi Analyzer, and Net Analyzer | SDR Sharp & Dongle used | Signal strength against location | NetSpot and WiFi Analyzer used | test the signal strength against the location | Once the signal reaches -100dBm the WiFi signal is no more viable and will not be able to connect or be discovered by the mobile device |
+| Signal strength against location | 13cm ham band detected | Testing inside house (3 floors) | Has stronger range | signal strength is lost once the mobile device has reached the road | Garden has better signal streng |
+
 
 ## Authors
 

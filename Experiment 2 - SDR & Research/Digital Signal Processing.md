@@ -18,7 +18,7 @@ A DSP contains four key components:
 * Program Memory: This stores the programs, or tasks, that the DSP will use to process, compress, or manipulate data.
 * I/O: This can be used for various things, depending on the field DSP is being used for, i.e., external ports, serial ports, timers, and connecting to the outside world. [1]
 
-### How
+### How?
 
 Signals need to be processed so that the information that they contain can be displayed, analysed, or converted to another type of signal that may be of use. In the real-world, analogue products detect signals such as sound, light, temperature, or pressure and manipulate them. Converters such as an Analog-to-Digital converter then take the real-world signal and turn it into the digital format of 1's and 0's. From here, the DSP takes over by capturing the digitized information and processing it. It then feeds the digitized information back for use in the real world. It does this in one of two ways, either digitally or in an analogue format by going through a Digital-to-Analog converter. All of this occurs at very high speeds. [2]
 
