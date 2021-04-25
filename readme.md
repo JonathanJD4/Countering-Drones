@@ -41,7 +41,7 @@ A step by step guide on how to build and install your software, for example:
 | WiFi apps used - NetSpot, WiFi Analyzer, and Net Analyzer | SDR Sharp & Dongle used | Signal strength against location | NetSpot and WiFi Analyzer used | test the signal strength against the location | Once the signal reaches -100dBm the WiFi signal is no more viable and will not be able to connect or be discovered by the mobile device |
 | Signal strength against location | 13cm ham band detected | Testing inside house (3 floors) | Has stronger range | signal strength is lost once the mobile device has reached the road | Garden has better signal strength |
 
-#### Block body method experiments
+#### Body block method experiments
 | Experiment 7 | Experiment 8 |
 | ------ | ------ |
 | Outdoors experiment for 2.4GHz | Indoors experiment for 5GHz |
