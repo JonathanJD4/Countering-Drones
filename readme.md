@@ -46,7 +46,7 @@ A step by step guide on how to build and install your software, for example:
 | ------ | ------ |
 | Outdoors experiment for 2.4GHz | Indoors experiment for 5GHz |
 | Signal strength was stronger outdoors and had more range | Signal strength was stronger indoors but had less range |
-| Signal loss minor | signal loss major |
+| Signal loss minor | Signal loss major |
 
 ## Authors
 
