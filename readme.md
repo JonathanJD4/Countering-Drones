@@ -1,4 +1,5 @@
 # Countering Drones
+
 This project is based on detecting the presence of drones using software defined radio (commonly known as SDR) and choosing a method for countering drones which could be through SDR, Early warning system or GPS spoofing
 
 ![Drones](https://i1.wp.com/www.suasnews.com/wp-content/uploads/2019/05/liteye-drone-detection.jpg?resize=218%2C150&ssl=1)
@@ -40,6 +41,12 @@ A step by step guide on how to build and install your software, for example:
 | WiFi apps used - NetSpot, WiFi Analyzer, and Net Analyzer | SDR Sharp & Dongle used | Signal strength against location | NetSpot and WiFi Analyzer used | test the signal strength against the location | Once the signal reaches -100dBm the WiFi signal is no more viable and will not be able to connect or be discovered by the mobile device |
 | Signal strength against location | 13cm ham band detected | Testing inside house (3 floors) | Has stronger range | signal strength is lost once the mobile device has reached the road | Garden has better signal strength |
 
+#### Block body method experiments
+| Experiment 7 | Experiment 8 |
+| ------ | ------ |
+| Outdoors experiment for 2.4GHz | Indoors experiment for 5GHz |
+| Signal strength was stronger outdoors and had more range | Signal strength was stronger indoors but had less range |
+| Signal loss minor | signal loss major |
 
 ## Authors
 
