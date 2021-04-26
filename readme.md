@@ -1,6 +1,6 @@
 # Countering Drones
 
-This project is based on detecting the presence of drones using software defined radio (commonly known as SDR) and choosing a method for countering drones which could be through SDR, Early warning system or GPS spoofing
+This project is based on detecting the presence of drones using software defined radio (commonly known as SDR) and choosing a method for countering drones which for example could be through SDR, Early warning system or GPS spoofing. A review of other methods will also be taken into account such as nets/net gun, defending drone swarms with advantages and disadvantages given. In the conclusion a method or a combination of methods will be discussed to find the most effective method for countering drones.
 
 ![Drones](https://i1.wp.com/www.suasnews.com/wp-content/uploads/2019/05/liteye-drone-detection.jpg?resize=218%2C150&ssl=1)
 ![Drones](https://images.idgesg.net/images/article/2020/01/snaptain-a15-drones-100827817-medium.jpg)
