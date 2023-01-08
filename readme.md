@@ -4,7 +4,7 @@ This project is based on detecting the presence of drones using software defined
 
 ![Drones](https://i1.wp.com/www.suasnews.com/wp-content/uploads/2019/05/liteye-drone-detection.jpg?resize=218%2C150&ssl=1)
 ![Drones](https://images.idgesg.net/images/article/2020/01/snaptain-a15-drones-100827817-medium.jpg)
-![Drones](https://2e2de02um3hsz26s7iwe817v-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/gannet-drone-pro-350x200.jpg)
+![Drones](https://www.commercialdroneprofessional.com/wp-content/uploads/2019/10/gannet-drone-pro-350x200@2x.jpg)
 
 ### Pre-requisites
 
